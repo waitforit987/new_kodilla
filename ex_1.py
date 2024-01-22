@@ -12,3 +12,4 @@ sum = len(shopping_dict["bakery"]) + len(shopping_dict["grocery"])
 
 print(f"Suma to {sum}")
 print("ON")
+print("TEST")
